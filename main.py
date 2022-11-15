@@ -1,5 +1,3 @@
-def hello():
-  print(Hello World)
-  
-  
- hello()
+x = "Hello"
+  print(x)
+
